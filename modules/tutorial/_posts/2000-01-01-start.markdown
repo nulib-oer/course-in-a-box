@@ -2,16 +2,13 @@
 title: About Course in a Box
 ---
 
-# Course in a Box
+# The Open Textbook Toolkit
 
-Course in a Box consist of 
+This toolkit includes:
 
- - a tutorial module to guide you through the technical steps for creating your course.
- - a resource module to help you design content, activities, community and feedback for your course.
- - a reference module with some explanation and detail about Course in a Box.
+ - a tutorial to guide you through the technical steps for creating your textbook
+ - a resource guide to help you design content for your textbook
+ - a reference guides with some explanation and detail about writing and formatting features
  - a community forum where you can ask questions or share your experience.
 
-The rest of this module will step you through creating your course, adding the modules you want to use and adding and updating content to sections.
-
-![Image of maze with starting point indicated]({{site.baseurl}}/img/start.jpg)
-Image [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [mikecogh](https://www.flickr.com/photos/mikecogh/11300349426) on Flickr.
+The rest of this module will step you through creating your textbook shell and adding chapters.
