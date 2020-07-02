@@ -1,5 +1,5 @@
 ---
-title: About Course in a Box
+title: About the Open Textbook Toolkit
 ---
 
 # The Open Textbook Toolkit
